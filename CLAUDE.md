@@ -1,5 +1,5 @@
 # PCARDB Loan Automation — Project Guide for Claude Code
-
+yhid rthgghghtrg
 > **Keep this file current.** After every significant change (feature, schema,
 > template, deployment), update the **Changelog** and any affected section
 > below. This file is the context bridge between sessions.
